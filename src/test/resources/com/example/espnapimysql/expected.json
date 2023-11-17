@@ -1,0 +1,39 @@
+{
+  "id": 2579,
+  "name": "South Carolina Gamecocks",
+  "wins": 1,
+  "losses": 4,
+  "rank": 0
+//  "offense": {
+//    "passing": {
+//      "passingAttempts": 78,
+//      "passingCompletions": 48,
+//      "passingAvgGain": 62,
+//      "passingTD": 8,
+//      "passingTwoPtConv": 3,
+//      "interceptions": 7
+//    },
+//    "rushing": {
+//      "rushingYards": 49,
+//      "rushingAttempts": 27,
+//      "rushingTD": 6,
+//      "rushingTwoPtConv": 4
+//    }
+//  },
+//  "defense": {
+//    "totalTackles": 13,
+//    "soloTackles": 15,
+//    "assistTackles": 2,
+//    "passing": {
+//      "interceptions": 16,
+//      "yardsFromInterceptions": 49
+//    },
+//    "rushing": {
+//      "kicksBlocked": 3,
+//      "hurries": 16,
+//      "safeties": 9,
+//      "sacks": 9,
+//      "yardsLostFromSack": 29
+//    }
+//  }
+}

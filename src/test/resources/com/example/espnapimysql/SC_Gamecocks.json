@@ -1,0 +1,208 @@
+{
+  "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2023/teams/2579?lang=en&region=us",
+  "id": "2579",
+  "guid": "6509690a-8cf2-b255-5af7-b6a1a1010ac4",
+  "uid": "s:20~l:23~t:2579",
+  "alternateIds": {
+    "sdr": "7352"
+  },
+  "slug": "south-carolina-gamecocks",
+  "location": "South Carolina",
+  "name": "Gamecocks",
+  "nickname": "South Carolina",
+  "abbreviation": "SC",
+  "displayName": "South Carolina Gamecocks",
+  "shortDisplayName": "Gamecocks",
+  "color": "73000a",
+  "alternateColor": "ffffff",
+  "isActive": true,
+  "isAllStar": false,
+  "logos": [
+    {
+      "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+        "full",
+        "default"
+      ],
+      "lastUpdated": "2023-02-17T21:15Z"
+    },
+    {
+      "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2579.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+        "full",
+        "dark"
+      ],
+      "lastUpdated": "2023-02-17T21:14Z"
+    }
+  ],
+  "record": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2023/types/2/teams/2579/record?lang=en&region=us"
+  },
+  "oddsRecords": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2023/types/0/teams/2579/odds-records?lang=en&region=us"
+  },
+  "athletes": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2023/teams/2579/athletes?lang=en&region=us"
+  },
+  "venue": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/3994?lang=en&region=us",
+    "id": "3994",
+    "fullName": "Williams-Brice Stadium",
+    "address": {
+      "city": "Columbia",
+      "state": "SC",
+      "zipCode": "29201"
+    },
+    "capacity": 77559,
+    "grass": true,
+    "indoor": false,
+    "images": [
+      {
+        "href": "https://a.espncdn.com/i/venues/college-football/day/3994.jpg",
+        "width": 2000,
+        "height": 1125,
+        "alt": "",
+        "rel": [
+          "full",
+          "day"
+        ]
+      },
+      {
+        "href": "https://a.espncdn.com/i/venues/college-football/day/interior/3994.jpg",
+        "width": 2000,
+        "height": 1125,
+        "alt": "",
+        "rel": [
+          "full",
+          "day",
+          "interior"
+        ]
+      }
+    ]
+  },
+  "groups": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2023/types/2/groups/6?lang=en&region=us"
+  },
+  "ranks": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2023/teams/2579/ranks?lang=en&region=us"
+  },
+  "statistics": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2023/types/2/teams/2579/statistics?lang=en&region=us"
+  },
+  "leaders": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2023/types/2/teams/2579/leaders?lang=en&region=us"
+  },
+  "links": [
+    {
+      "language": "en-US",
+      "rel": [
+        "clubhouse",
+        "desktop",
+        "team"
+      ],
+      "href": "https://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks",
+      "text": "Clubhouse",
+      "shortText": "Clubhouse",
+      "isExternal": false,
+      "isPremium": false
+    },
+    {
+      "language": "en-US",
+      "rel": [
+        "clubhouse",
+        "mobile",
+        "team"
+      ],
+      "href": "http://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks",
+      "text": "Clubhouse",
+      "shortText": "Clubhouse",
+      "isExternal": false,
+      "isPremium": false
+    },
+    {
+      "language": "en-US",
+      "rel": [
+        "roster",
+        "desktop",
+        "team"
+      ],
+      "href": "http://www.espn.com/college-football/team/roster/_/id/2579",
+      "text": "Roster",
+      "shortText": "Roster",
+      "isExternal": false,
+      "isPremium": false
+    },
+    {
+      "language": "en-US",
+      "rel": [
+        "stats",
+        "desktop",
+        "team"
+      ],
+      "href": "http://www.espn.com/college-football/team/stats/_/id/2579",
+      "text": "Statistics",
+      "shortText": "Statistics",
+      "isExternal": false,
+      "isPremium": false
+    },
+    {
+      "language": "en-US",
+      "rel": [
+        "schedule",
+        "desktop",
+        "team"
+      ],
+      "href": "http://www.espn.com/college-football/team/schedule/_/id/2579",
+      "text": "Schedule",
+      "shortText": "Schedule",
+      "isExternal": false,
+      "isPremium": false
+    },
+    {
+      "language": "en-US",
+      "rel": [
+        "awards",
+        "desktop",
+        "team"
+      ],
+      "href": "http://www.espn.com/college-football/awards/_/team/2579",
+      "text": "Awards",
+      "shortText": "Awards",
+      "isExternal": false,
+      "isPremium": false
+    }
+  ],
+  "injuries": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/teams/2579/injuries?lang=en&region=us"
+  },
+  "notes": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/teams/2579/notes?lang=en&region=us"
+  },
+  "againstTheSpreadRecords": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2023/types/2/teams/2579/ats?lang=en&region=us"
+  },
+  "awards": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2023/teams/2579/awards?lang=en&region=us"
+  },
+  "franchise": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/franchises/2579?lang=en&region=us"
+  },
+  "projection": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2023/teams/2579/projection?lang=en&region=us"
+  },
+  "events": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2023/teams/2579/events?lang=en&region=us"
+  },
+  "coaches": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2023/teams/2579/coaches?lang=en&region=us"
+  },
+  "college": {
+    "$ref": "http://sports.core.api.espn.com/v2/colleges/2579?lang=en&region=us"
+  }
+}

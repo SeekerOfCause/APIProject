@@ -1,0 +1,13 @@
+DROP TABLE team_entity;
+
+CREATE TABLE team_entity
+(
+    ID BIGINT PRIMARY KEY,
+    NAME VARCHAR(30),
+    WINS INT,
+    LOSSES INT,
+    CUR_RANK INT
+);
+
+INSERT INTO team_entity(ID, NAME, WINS, LOSSES, CUR_RANK) VALUES (2579, 'South Carolina GameCocks', 2, 4, 74);
+INSERT INTO team_entity(ID, NAME, WINS, LOSSES, CUR_RANK) VALUES (13, 'TEST', 1, 1, 1);
